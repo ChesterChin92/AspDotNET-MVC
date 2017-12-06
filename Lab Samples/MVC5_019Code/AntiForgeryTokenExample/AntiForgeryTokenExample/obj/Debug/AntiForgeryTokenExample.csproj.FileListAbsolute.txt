@@ -54,3 +54,23 @@ C:\Users\Chester Chin\Desktop\ASP DOT NET MVC 5\Code Samples\MVC5_019Code\AntiFo
 C:\Users\Chester Chin\Desktop\ASP DOT NET MVC 5\Code Samples\MVC5_019Code\AntiForgeryTokenExample\AntiForgeryTokenExample\obj\Debug\AntiForgeryTokenExample.csproj.CoreCompileInputs.cache
 C:\Users\Chester Chin\Desktop\ASP DOT NET MVC 5\Code Samples\MVC5_019Code\AntiForgeryTokenExample\AntiForgeryTokenExample\obj\Debug\AntiForgeryTokenExample.dll
 C:\Users\Chester Chin\Desktop\ASP DOT NET MVC 5\Code Samples\MVC5_019Code\AntiForgeryTokenExample\AntiForgeryTokenExample\obj\Debug\AntiForgeryTokenExample.pdb
+C:\Users\Chester Chin\Desktop\ASP DOT NET MVC 5\Github Repo\Lab Samples\MVC5_019Code\AntiForgeryTokenExample\AntiForgeryTokenExample\bin\AntiForgeryTokenExample.dll.config
+C:\Users\Chester Chin\Desktop\ASP DOT NET MVC 5\Github Repo\Lab Samples\MVC5_019Code\AntiForgeryTokenExample\AntiForgeryTokenExample\bin\AntiForgeryTokenExample.dll
+C:\Users\Chester Chin\Desktop\ASP DOT NET MVC 5\Github Repo\Lab Samples\MVC5_019Code\AntiForgeryTokenExample\AntiForgeryTokenExample\bin\AntiForgeryTokenExample.pdb
+C:\Users\Chester Chin\Desktop\ASP DOT NET MVC 5\Github Repo\Lab Samples\MVC5_019Code\AntiForgeryTokenExample\AntiForgeryTokenExample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Chester Chin\Desktop\ASP DOT NET MVC 5\Github Repo\Lab Samples\MVC5_019Code\AntiForgeryTokenExample\AntiForgeryTokenExample\bin\System.Web.Helpers.dll
+C:\Users\Chester Chin\Desktop\ASP DOT NET MVC 5\Github Repo\Lab Samples\MVC5_019Code\AntiForgeryTokenExample\AntiForgeryTokenExample\bin\System.Web.Mvc.dll
+C:\Users\Chester Chin\Desktop\ASP DOT NET MVC 5\Github Repo\Lab Samples\MVC5_019Code\AntiForgeryTokenExample\AntiForgeryTokenExample\bin\System.Web.Razor.dll
+C:\Users\Chester Chin\Desktop\ASP DOT NET MVC 5\Github Repo\Lab Samples\MVC5_019Code\AntiForgeryTokenExample\AntiForgeryTokenExample\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Chester Chin\Desktop\ASP DOT NET MVC 5\Github Repo\Lab Samples\MVC5_019Code\AntiForgeryTokenExample\AntiForgeryTokenExample\bin\System.Web.Webpages.dll
+C:\Users\Chester Chin\Desktop\ASP DOT NET MVC 5\Github Repo\Lab Samples\MVC5_019Code\AntiForgeryTokenExample\AntiForgeryTokenExample\bin\System.Web.Webpages.Razor.dll
+C:\Users\Chester Chin\Desktop\ASP DOT NET MVC 5\Github Repo\Lab Samples\MVC5_019Code\AntiForgeryTokenExample\AntiForgeryTokenExample\bin\System.Web.Razor.xml
+C:\Users\Chester Chin\Desktop\ASP DOT NET MVC 5\Github Repo\Lab Samples\MVC5_019Code\AntiForgeryTokenExample\AntiForgeryTokenExample\bin\System.Web.Webpages.xml
+C:\Users\Chester Chin\Desktop\ASP DOT NET MVC 5\Github Repo\Lab Samples\MVC5_019Code\AntiForgeryTokenExample\AntiForgeryTokenExample\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Chester Chin\Desktop\ASP DOT NET MVC 5\Github Repo\Lab Samples\MVC5_019Code\AntiForgeryTokenExample\AntiForgeryTokenExample\bin\System.Web.Webpages.Razor.xml
+C:\Users\Chester Chin\Desktop\ASP DOT NET MVC 5\Github Repo\Lab Samples\MVC5_019Code\AntiForgeryTokenExample\AntiForgeryTokenExample\bin\System.Web.Helpers.xml
+C:\Users\Chester Chin\Desktop\ASP DOT NET MVC 5\Github Repo\Lab Samples\MVC5_019Code\AntiForgeryTokenExample\AntiForgeryTokenExample\bin\System.Web.Mvc.xml
+C:\Users\Chester Chin\Desktop\ASP DOT NET MVC 5\Github Repo\Lab Samples\MVC5_019Code\AntiForgeryTokenExample\AntiForgeryTokenExample\obj\Debug\AntiForgeryTokenExample.csprojResolveAssemblyReference.cache
+C:\Users\Chester Chin\Desktop\ASP DOT NET MVC 5\Github Repo\Lab Samples\MVC5_019Code\AntiForgeryTokenExample\AntiForgeryTokenExample\obj\Debug\AntiForgeryTokenExample.csproj.CoreCompileInputs.cache
+C:\Users\Chester Chin\Desktop\ASP DOT NET MVC 5\Github Repo\Lab Samples\MVC5_019Code\AntiForgeryTokenExample\AntiForgeryTokenExample\obj\Debug\AntiForgeryTokenExample.dll
+C:\Users\Chester Chin\Desktop\ASP DOT NET MVC 5\Github Repo\Lab Samples\MVC5_019Code\AntiForgeryTokenExample\AntiForgeryTokenExample\obj\Debug\AntiForgeryTokenExample.pdb

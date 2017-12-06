@@ -38,7 +38,7 @@ namespace AntiForgeryTokenExample.Controllers
 
 
         [HttpPost]
-        //[ValidateAntiForgeryToken]
+        [ValidateAntiForgeryToken]
         public RedirectToRouteResult Transfer(string account, decimal amount)
         {
 
